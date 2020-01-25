@@ -2,6 +2,7 @@ Do it JAVA Algorism 책 정리
 
 
 <h1>[ 목차 ]</h1>
+<hr>
 Chap01. 기본 알고리즘<br>
 Chap02. 기본 자료구조<br>
 Chap03. 검색<br>
