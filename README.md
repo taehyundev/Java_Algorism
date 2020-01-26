@@ -4,9 +4,9 @@
 <h2>[ 목차 ]</h2>
 <hr>
 <h5>
-Chap01. 기본 알고리즘<br><br><br>
-Chap02. 기본 자료구조<br><br>
-Chap03. 검색<br><br>
+Chap01. 기본 알고리즘 - 정리완료<br><br>
+Chap02. 기본 자료구조 - 정리완료<br><br>
+Chap03. 검색 - 정리중<br><br>
 Chap04. 스택과 큐<br><br>
 Chap05. 재귀 알고리즘<br><br>
 Chap06. 정렬<br><br>
