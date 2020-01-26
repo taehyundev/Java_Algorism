@@ -4,7 +4,7 @@
 <h2>[ 목차 ]</h2>
 <hr>
 <h5>
-[Chap01. 기본 알고리즘](https://github.com/taehyundev/Java_Algorithm/tree/master/Chap01/) - 정리완료<br><br>
+<a href="https://github.com/taehyundev/Java_Algorithm/tree/master/Chap01/">Chap01. 기본 알고리즘</a> - 정리완료<br><br>
 Chap02. 기본 자료구조 - 정리완료<br><br>
 Chap03. 검색 - 정리중<br><br>
 Chap04. 스택과 큐<br><br>
